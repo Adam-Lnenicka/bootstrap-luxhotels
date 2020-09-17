@@ -13,8 +13,8 @@ h4 {
   letter-spacing: 1px;
 }
 
-.navbar {
-  background-color: blue;
+nav {
+  background-color: #e7ebf3;
 }
 
 .nav-link {
@@ -30,7 +30,6 @@ h4 {
 
 .navbar-toggler-icon {
   color: black;
-  background-color: black;
 }
 
 i {
