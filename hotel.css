@@ -13,10 +13,6 @@ h4 {
   letter-spacing: 1px;
 }
 
-.navbar {
-  background-color: #e7ebf3;
-}
-
 .nav-link {
   letter-spacing: 0.8px;
   text-transform: uppercase;
@@ -26,6 +22,11 @@ h4 {
 .nav-link:hover {
   color: #5c2018;
   font-weight: 600;
+}
+
+.navbar-toggler-icon {
+  color: black;
+  background-color: black;
 }
 
 i {
