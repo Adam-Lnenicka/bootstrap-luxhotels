@@ -1,6 +1,7 @@
 h1 {
   color: #5c2018;
   font-weight: 400;
+  text-transform: capitalize;
 }
 
 h2 {
@@ -13,19 +14,13 @@ h4 {
   letter-spacing: 1px;
 }
 
-.nav-link {
+.navbar {
+  background-color: #e7ebf3;
+}
+
+.navbar-light {
   letter-spacing: 0.8px;
   text-transform: uppercase;
-  color: black;
-}
-
-.nav-link:hover {
-  color: #5c2018;
-  font-weight: 600;
-}
-
-.navbar-toggler {
-  color: black;
 }
 
 i {
@@ -33,18 +28,14 @@ i {
 }
 
 .button {
-  background-color: #cf7e13;
+  background-color: #885109;
   border: none;
   color: white;
 }
 
 .button:hover {
-  background-color: #885109;
+  background-color: #e7ebf3;
   color: white;
-}
-
-.carousel-item {
-  height: 80vh;
 }
 
 .card-img-top {
