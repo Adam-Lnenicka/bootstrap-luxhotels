@@ -28,13 +28,13 @@ i {
 }
 
 .button {
-  background-color: #885109;
+  background-color: #faa11b;
   border: none;
   color: white;
 }
 
 .button:hover {
-  background-color: #e7ebf3;
+  background-color: #bd851e;
   color: white;
 }
 

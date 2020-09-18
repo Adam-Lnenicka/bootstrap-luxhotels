@@ -1,6 +1,6 @@
 $darkColor: #5c2018;
 $lightColor: #e7ebf3;
-$hilightColor: #faac1b;  
+$hilightColor: #faa11b;  
 
 h1{
     color: $darkColor;
@@ -35,7 +35,7 @@ i{
      border: none;
      color: white;
      &:hover{
-        background-color: $lightColor;  
+        background-color: #bd851e;  ;  
         color:white  
      }
  }
